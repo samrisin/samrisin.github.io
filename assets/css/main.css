@@ -1974,6 +1974,7 @@ input, select, textarea {
 					ul.social li a.fa-google-plus:hover {
 						background: #ea3723;
 					}
+		
 
 /* Icons */
 
@@ -2428,6 +2429,7 @@ input, select, textarea {
 
 			#footer {
 				padding: 3em 0;
+				background-color: slategray;
 			}
 
 				#footer:before {
@@ -2524,6 +2526,12 @@ input, select, textarea {
 					#intro footer ul.actions {
 						margin-bottom: 0;
 					}
+				#footer ul.social li h3 {
+					position: absolute;
+					left:0;
+					margin-left: 5%;
+
+				}
 
 		/* Main */
 
