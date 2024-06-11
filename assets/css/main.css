@@ -1695,8 +1695,8 @@ input, select, textarea {
 	}
 
 		.image img {
-			display: block;
-			width: 100%;
+			display: inline;
+			width: 50%;
 		}
 
 		.image.centered {
@@ -2526,10 +2526,10 @@ input, select, textarea {
 					#intro footer ul.actions {
 						margin-bottom: 0;
 					}
-				#footer ul.social li h3 {
+				 ul.social li h3 {
 					position: absolute;
 					left:0;
-					margin-left: 5%;
+					margin-left: 2%;
 
 				}
 
