@@ -27,10 +27,6 @@ const config = {
 			'@md': './src/lib/md',
 			'@stores': './src/lib/stores',
 			'@utils': './src/lib/utils'
-		},
-		paths: {
-			base:'',
-			relative: false 
 		}
 	}
 };
